@@ -1,0 +1,3 @@
+dinolog.com.br:587,dino@dinolog.com.br,logistica@2017#
+alternativasistemas.com.br:587,alternativa@alternativasistemas.com.br,asr247924
+adepeseguros.com.br:587,adepe@adepeseguros.com.br,12799432095 
